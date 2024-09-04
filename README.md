@@ -5,7 +5,9 @@ What is FDO?
 
 
 App Trial Video:
-https://youtu.be/_wmfQJVsn_U
+[short_test.webm](https://github.com/user-attachments/assets/c45a5827-1f71-4779-bfd4-37e506b9de33)
+
+Full Video: https://youtu.be/_wmfQJVsn_U
 
 
 REFERENCES
