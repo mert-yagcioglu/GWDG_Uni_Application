@@ -16,6 +16,7 @@ REFERENCES
 
 Photos from the app:
 <img src="https://github.com/user-attachments/assets/8268b96d-a719-465e-8696-321f3ce04043" width="300">
+<img src="https://github.com/user-attachments/assets/8268b96d-a719-465e-8696-321f3ce04043" width="100" height="100">
 ![1](https://github.com/user-attachments/assets/8268b96d-a719-465e-8696-321f3ce04043)
 ![2](https://github.com/user-attachments/assets/1a2b7323-e696-49e6-90be-e379d1e12b1e)
 ![3](https://github.com/user-attachments/assets/e851808b-4431-4942-a454-7ef1bd19659c)
