@@ -28,7 +28,7 @@ Follow these steps:
   <img src="https://github.com/user-attachments/assets/ac3fb370-b1a9-44b4-8aca-45acaf353cff" width="500">
       
       
-  <img src="https://github.com/user-attachments/assets/ce787e5c-72ee-4fc8-936f-aafc823809dc" width="430">
+  <img src="https://github.com/user-attachments/assets/ce787e5c-72ee-4fc8-936f-aafc823809dc" width="450">
 
 
 
